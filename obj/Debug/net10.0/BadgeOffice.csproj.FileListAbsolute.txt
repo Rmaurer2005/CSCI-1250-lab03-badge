@@ -1,0 +1,14 @@
+C:\Users\rmaur\CSCI1250\lab3 badge\BadgeOffice\bin\Debug\net10.0\BadgeOffice.exe
+C:\Users\rmaur\CSCI1250\lab3 badge\BadgeOffice\bin\Debug\net10.0\BadgeOffice.deps.json
+C:\Users\rmaur\CSCI1250\lab3 badge\BadgeOffice\bin\Debug\net10.0\BadgeOffice.runtimeconfig.json
+C:\Users\rmaur\CSCI1250\lab3 badge\BadgeOffice\bin\Debug\net10.0\BadgeOffice.dll
+C:\Users\rmaur\CSCI1250\lab3 badge\BadgeOffice\bin\Debug\net10.0\BadgeOffice.pdb
+C:\Users\rmaur\CSCI1250\lab3 badge\BadgeOffice\obj\Debug\net10.0\BadgeOffice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmaur\CSCI1250\lab3 badge\BadgeOffice\obj\Debug\net10.0\BadgeOffice.AssemblyInfoInputs.cache
+C:\Users\rmaur\CSCI1250\lab3 badge\BadgeOffice\obj\Debug\net10.0\BadgeOffice.AssemblyInfo.cs
+C:\Users\rmaur\CSCI1250\lab3 badge\BadgeOffice\obj\Debug\net10.0\BadgeOffice.csproj.CoreCompileInputs.cache
+C:\Users\rmaur\CSCI1250\lab3 badge\BadgeOffice\obj\Debug\net10.0\BadgeOffice.dll
+C:\Users\rmaur\CSCI1250\lab3 badge\BadgeOffice\obj\Debug\net10.0\refint\BadgeOffice.dll
+C:\Users\rmaur\CSCI1250\lab3 badge\BadgeOffice\obj\Debug\net10.0\BadgeOffice.pdb
+C:\Users\rmaur\CSCI1250\lab3 badge\BadgeOffice\obj\Debug\net10.0\BadgeOffice.genruntimeconfig.cache
+C:\Users\rmaur\CSCI1250\lab3 badge\BadgeOffice\obj\Debug\net10.0\ref\BadgeOffice.dll
